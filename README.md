@@ -221,6 +221,51 @@ if __name__ == "__main__":
             pass
 ```
 
+## Features
+- [ ] Criação de GUI
+
+- [ ] Criar configurações de inicialização
+   - [ ] Login
+   - [ ] Senha
+   - [ ] FaceID
+   - [ ] Voz ID
+
+- [ ] Criar função de criação de venv
+
+- [ ] Criar função de instalação de preparação do ambiente
+
+- [ ] Criar módulos de testes
+
+- [ ] Criar documentação para todos os módulos e classes
+
+- [ ] Criar sistema de logs
+
+- [ ] Abertura de págins web / sites específicos
+
+- [X] Previsão do tempo
+
+- [X] Notícias do dia 
+
+- [ ] escreva um nota
+
+- [ ] DistÂncia entre duas localizações
+
+- [ ] Minha cocalização 
+
+- [ ] Eventos em calendários
+
+- [ ] Informações sobre filmes ou séries: Integrar o assistente com uma API de dados sobre filmes e séries para fornecer informações sobre lançamentos, elenco, sinopse e avaliações.
+
+- [ ] Comandos de controle do computador: Permitir que o assistente execute tarefas no computador, como abrir programas, criar lembretes, agendar eventos ou fazer capturas de tela.
+
+- [ ] Tradução de idiomas: Adicionar a funcionalidade de tradução para permitir que o assistente traduza palavras ou frases para outros idiomas.
+
+- [X] Pesquisa em outros mecanismos de busca: Além da pesquisa no Wikipedia, permitir que o assistente pesquise em outros mecanismos de busca, como o Google, para fornecer resultados mais abrangentes.
+
+- [ ] Lembrete de compromissos: Implementar uma funcionalidade para agendar e lembrar compromissos ou tarefas importantes.
+
+- [ ] Suporte a comandos personalizados: Implementar a capacidade de adicionar comandos personalizados para tarefas específicas, de acordo com as necessidades do usuário.
+
 ## Contato
 
 Se você tiver alguma dúvida ou problema, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato comigo.
