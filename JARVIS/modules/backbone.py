@@ -4,9 +4,7 @@ import google.generativeai as gemini
 import requests
 
 from modules import finance
-from modules import createSomething
 from modules import listen
-from modules import weatherForecast
 from modules import get_env 
 
 def execute_command(comando):
